@@ -1,6 +1,6 @@
 {
   "name": "@aztra/level-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js용 Aztra 경험치 및 레벨 계산 도구",
   "main": "dist/index.js",
   "scripts": {
