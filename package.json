@@ -1,0 +1,24 @@
+{
+  "name": "@aztra/level-utils",
+  "version": "1.0.0",
+  "description": "Node.js용 Aztra 경험치 및 레벨 계산 도구",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfiniteTeam/node-aztra-level-utils.git"
+  },
+  "author": "InfiniteTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfiniteTeam/node-aztra-level-utils/issues"
+  },
+  "homepage": "https://github.com/InfiniteTeam/node-aztra-level-utils#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "typescript": "^4.1.2"
+  }
+}
