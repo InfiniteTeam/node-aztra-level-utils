@@ -14,7 +14,7 @@ export function getAccumulateExp(until: number) {
         .reduce((a, b) => a + b)
 }
 
-export function clac_level(exp: number) {
+export function calcLevel(exp: number) {
     let accumulate = 0
     let level = 1
     for (let x = 1; x <= Object.keys(expTable).length; x++) {
